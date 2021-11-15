@@ -1,6 +1,6 @@
 ### Site Settings ###
-title               : Max Schmitz Webpage
-description         : Max Schmitz Website
+title               : Max Schmitz
+description         : Max(imilian) Schmitz
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : schmmaximus/schmmaximus.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -23,23 +23,23 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Max(imilian) Schmitz
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  image             : https://github.com/schmmaximus/schmmaximus.github.io/blob/132846e7670c4f2df9cce8c3f0d19152387c2b5b/GTfall2021-0422-min.jpg
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : m.schmitz096@outlook.com
+# facebook          : your_username
+  github            : https://github.com/schmmaximus
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
+  linkedin          : https://www.linkedin.com/in/maximilian-schmitz-26456a185/
+# medium            : your_username
+  soundcloud        : https://soundcloud.com/makz-969860584
+  spotify           : https://open.spotify.com/album/6Cg0WEBA2vAcju1B2PSybB?si=xRvmsp1bQ0OSLuecd3vmsA
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
